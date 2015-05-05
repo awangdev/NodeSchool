@@ -2,7 +2,7 @@
 Learning NodeJS and store example code for future code-efficiency
 
 
-# NodeJS Learnyounoe Challenges
+# NodeJS Learnyounode Challenges
 Started with the [learnyounode](http://nodeschool.io/#workshoppers) from NodeSchool.
 
 `npm install -g learnyounode`
